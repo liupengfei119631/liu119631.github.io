@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Coder, Coder Blog, LiuPengFei的博客, LiuPengFei, 刘鹏飞, iOS, Apple, iPhone"
 url: "http://liu119631.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+#github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,8 +18,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     金少年Ki
-zhihu_username:     qiubaiying
+weibo_username:     https://weibo.com/3841094664/profile?topnav=1&wvr=6
+zhihu_username:     liupengfei
 github_username:    liu119631
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
